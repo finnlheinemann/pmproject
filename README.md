@@ -7,6 +7,7 @@
 - Aussehen
 - Stärke
 - Reissfestigkeit
+- Verfügbarkeit
 
 ## Daten
 ---
